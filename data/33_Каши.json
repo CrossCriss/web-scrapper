@@ -1,0 +1,110 @@
+﻿[
+    {
+        "Title": "Гречневая каша рассыпчатая",
+        "Calories": "98,7 кКал",
+        "Proteins": "3,6 г",
+        "Carbonhydrates": "17,1 г"
+    },
+    {
+        "Title": "Каша \"Янтарная\"(из пшена я яблоками)",
+        "Calories": "138,9 кКал",
+        "Proteins": "3,8 г",
+        "Carbonhydrates": "17,5 г"
+    },
+    {
+        "Title": "Каша боярская (из пшена с изюмом)",
+        "Calories": "221,7 кКал",
+        "Proteins": "4,8 г",
+        "Carbonhydrates": "19,5 г"
+    },
+    {
+        "Title": "Каша вязкая из пшена с тыквой",
+        "Calories": "158 кКал",
+        "Proteins": "4,2 г",
+        "Carbonhydrates": "18,5 г"
+    },
+    {
+        "Title": "Каша гурьевская",
+        "Calories": "151,2 кКал",
+        "Proteins": "4,4 г",
+        "Carbonhydrates": "22,6 г"
+    },
+    {
+        "Title": "Каша из тыквы с манкой",
+        "Calories": "161,5 кКал",
+        "Proteins": "2,8 г",
+        "Carbonhydrates": "19,9 г"
+    },
+    {
+        "Title": "Каша манная коричневая",
+        "Calories": "162,1 кКал",
+        "Proteins": "5,3 г",
+        "Carbonhydrates": "23,2 г"
+    },
+    {
+        "Title": "Каша пшенная с сушеными сливами",
+        "Calories": "121,3 кКал",
+        "Proteins": "2,4 г",
+        "Carbonhydrates": "22,7 г"
+    },
+    {
+        "Title": "Каша рисовая с какао",
+        "Calories": "146,2 кКал",
+        "Proteins": "4,1 г",
+        "Carbonhydrates": "20,3 г"
+    },
+    {
+        "Title": "Манная каша на клюквенном соке",
+        "Calories": "112,7 кКал",
+        "Proteins": "1,9 г",
+        "Carbonhydrates": "17 г"
+    },
+    {
+        "Title": "Манная каша с морковью",
+        "Calories": "97,3 кКал",
+        "Proteins": "2,7 г",
+        "Carbonhydrates": "9,7 г"
+    },
+    {
+        "Title": "Мучная каша",
+        "Calories": "95,3 кКал",
+        "Proteins": "3,4 г",
+        "Carbonhydrates": "10,2 г"
+    },
+    {
+        "Title": "Рисовая каша с черносливом",
+        "Calories": "128,5 кКал",
+        "Proteins": "1,9 г",
+        "Carbonhydrates": "26,4 г"
+    },
+    {
+        "Title": "Рисовая с абрикосами по-венгерски",
+        "Calories": "119,7 кКал",
+        "Proteins": "2,6 г",
+        "Carbonhydrates": "28,5 г"
+    },
+    {
+        "Title": "Яблочно-манная каша",
+        "Calories": "128,4 кКал",
+        "Proteins": "1,9 г",
+        "Carbonhydrates": "22 г"
+    },
+    {
+        "Title": "Яичная каша (натуральная)",
+        "Calories": "180,3 кКал",
+        "Proteins": "10,3 г",
+        "Carbonhydrates": "10,8 г"
+    },
+    {
+        "Title": "Яичная каша с овощами или грибами",
+        "Calories": "261 кКал",
+        "Proteins": "15,9 г",
+        "Carbonhydrates": "20,9 г"
+    },
+    {
+        "Title": "Ячневая каша с картофелем",
+        "Calories": "48,6 кКал",
+        "Proteins": "1,8 г",
+        "Carbonhydrates": "8,7 г"
+    }
+]
